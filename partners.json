@@ -1,15 +1,5 @@
 {
   "launchSheet": false,
   "bannerShare": 0,
-  "items": [
-    {
-      "id": "pmvs84kkc",
-      "title": "Тест завершений (видалити)",
-      "url": "https://chepeti.com",
-      "places": [
-        "banner"
-      ],
-      "banner": "https://vumadusa.github.io/chepeti-partners/partners/pmvs84kkc-1793198570440.png"
-    }
-  ]
+  "items": []
 }
