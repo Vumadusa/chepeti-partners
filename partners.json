@@ -1,5 +1,15 @@
 {
   "launchSheet": false,
   "bannerShare": 0,
-  "items": []
+  "items": [
+    {
+      "id": "pmvs7zt6u",
+      "title": "Тест партнер (видалити)",
+      "url": "https://chepeti.com",
+      "places": [
+        "banner"
+      ],
+      "banner": "https://vumadusa.github.io/chepeti-partners/partners/pmvs7zt6u-1793198363281.png"
+    }
+  ]
 }
