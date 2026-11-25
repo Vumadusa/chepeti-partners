@@ -1,5 +1,18 @@
 {
-  "launchSheet": false,
+  "launchSheet": true,
   "bannerShare": 0,
-  "items": []
+  "items": [
+    {
+      "id": "pmww62pkw",
+      "title": "ТЕСТ Партнер (видалити)",
+      "url": "https://chepeti.com",
+      "places": [
+        "banner",
+        "sheet"
+      ],
+      "text": "Тестова пропозиція для перевірки (25.11)",
+      "image": "https://vumadusa.github.io/chepeti-partners/partners/pmww62pkw-1795613809322.png",
+      "banner": "https://vumadusa.github.io/chepeti-partners/partners/pmww62pkw-1795613820446.png"
+    }
+  ]
 }
